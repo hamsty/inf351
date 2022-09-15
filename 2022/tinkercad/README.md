@@ -59,8 +59,8 @@
 ## Paulo e Talles
 
 - Montagem Tinkercad
-**problema** Sinal de transito sem a função Delay, onde a chave irá programar o tempo que o sinal fica em vermelho. O tempo default é 5 segundos. 
-  * ao apertar a chave, os leds irão piscar. Depois solta a chave. Ao apertar novamente, manter a chave apertada e o Arduino irá marcar o tempo, ao soltar a chave, o sinal comeca a funcionar com o tempo que a chave ficou apertada.
+**problema** [Sinal de transito sem a função Delay, onde a chave irá programar o tempo que o sinal fica em vermelho. O tempo default é 5 segundos. 
+  * ao apertar a chave, os leds irão piscar. Depois solta a chave. Ao apertar novamente, manter a chave apertada e o Arduino irá marcar o tempo, ao soltar a chave, o sinal comeca a funcionar com o tempo que a chave ficou apertada.](https://www.tinkercad.com/things/0UDHdayM7kH)
   
   
 
